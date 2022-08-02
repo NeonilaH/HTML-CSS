@@ -1,0 +1,41 @@
+*{
+
+    margin: 20px auto;
+    padding: 0;
+    box-sizing: border-box;
+    align-items: center;
+
+}
+
+.box1{
+    display: flex;
+    width: 300px;
+    min-height: 100px;
+    background-color: bisque;
+    border: darkred dashed;
+   
+
+}
+.box2{
+    width: 300px;
+    min-height: 100px;
+    background-color: yellowgreen;
+    border: red dotted;
+
+}
+
+.box3{
+    width: 300px;
+    min-height: 100px;
+    background-color: green;
+    outline: red solid 7px;
+}
+
+.box4{
+    width: 300px;
+    min-height: 100px;
+    background-color: pink;
+    border-left: black solid 3px;
+   
+
+}
