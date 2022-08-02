@@ -12,10 +12,13 @@ Additionally. Create any layout using at least 15 different tags.
 
 ### Task 3
 It is necessary to make the same appearance as in the picture of the task, namely:
+
 1. The first line should be stylized using the built-in style.
 2. The second line using the global style.
 3. The third line using an external file.
+
 Потрібно зверстати такий самий вигляд як на картинці завдання, а саме:
+
 1. Перший рядок потрібно простилізувати за допомогою вбудованого стилю.
 2. Другий рядок за допомогою глобального стилю.
 3. Третій рядок за допомогою зовнішнього файлу.
