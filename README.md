@@ -3,7 +3,7 @@
 ### Task 1
 Make the page as in the image. No need to use CSS yet. All minimal text stylization is currently performed using special tags. Try to repeat everything exactly as on the layout.
 
-Зверстати сторінку як на зображенні. Не потрібно використовувати ще CSS. Всі мінімальні стилізації тексту поки виконуємо за допомогою спеціальних тегів. Постаратись повторити все в точності як на макеті.
+Зверстати сторінку як на зображенні. Не потрібно використовувати ще CSS. Всі мінімальні стилізації тексту поки виконуємо за допомогою спеціальних тегів. Спробуйте повторити все в точності як на макеті.
 
 ***
 
@@ -44,3 +44,6 @@ It is necessary to make the same appearance as in the picture of task 2. Use suc
 ***
 
 ### Task 6
+It is necessary to create a "Games" layout. It will be very good to use your own imagination. It is not necessary to repeat the layout exactly. You can use the example to make something similar at your own will.
+
+Необхідно зверстати макет «Games». Буде дуже добре використовувати власну фантазію. Не обов'язково в точності повторювати макет. Можете за прикладом зверстати щось схоже за власним бажанням.
