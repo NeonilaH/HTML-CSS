@@ -1,0 +1,24 @@
+*{
+    width: 700px;
+    height: 50px;  
+    margin: 30px auto;
+    padding: 20px;
+    font-size: large;
+}
+.box{
+    
+outline: double 5px white;
+color: white;
+}
+.box2{
+    
+    text-align: center;
+    outline: double 5px red;
+    color: red;
+}
+.box3{
+   
+    text-align: right;
+    outline: double 5px blue;
+    color: blue;
+}
