@@ -11,7 +11,7 @@ Additionally. Create any layout using at least 15 different tags.
 ***
 
 ### Task 3
-It is necessary to make the same appearance as in the picture of the task, namely:
+It is necessary to make the same layout as in the picture of the task, namely:
 
 1. The first line should be stylized using the built-in style.
 2. The second line using the global style.
@@ -20,12 +20,12 @@ It is necessary to make the same appearance as in the picture of the task, namel
 ***
 
 ### Task 4
-It is necessary to make the same appearance as in the picture of task 1. Use such properties as width, height, background-color, margin, border (or outline).
+It is necessary to make the same layout as in the picture of task 1. Use such properties as width, height, background-color, margin, border (or outline).
 
 ***
 
 ### Task 5
-It is necessary to make the same appearance as in the picture of task 2. Use such properties as width, height, background-color, margin, border, padding.
+It is necessary to make the same layout as in the picture of task 2. Use such properties as width, height, background-color, margin, border, padding.
 
 ***
 
